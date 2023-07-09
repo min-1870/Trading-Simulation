@@ -1,0 +1,3 @@
+Expect,Profit,Trade,Win rate,Win AVG,Loss rate,Loss AVG,Buy_1,Buy_value_1,Buy_trend,Buy_2,Buy_value_2,Sell_1,Sell_value_1,Sell_trend,Sell_2,Sell_value_2
+232.682,120.466,36,72.222,4.187,27.778,1.161,SMA,64,ANY,RSL,4,SMA,2,UP_DOWN,SMA,8
+0,0,0,0,0,0,0,PRICE,0,UP,PRICE,0,PRICE,0,UP,PRICE,0

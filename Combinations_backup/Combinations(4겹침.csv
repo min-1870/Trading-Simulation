@@ -1,0 +1,7 @@
+Buy_1,Buy_value_1,Buy_trend,Buy_2,Buy_value_2,Sell_1,Sell_value_1,Sell_trend,Sell_2,Sell_value_2
+TEMA,2,UP,SMA,2,SMA,8,UP,TEMA,2
+TEMA,2,UP,SMA,2,SMA,8,UP,TEMA,4
+DEMA,2,UP,SMA,2,SMA,8,UP,TEMA,2
+SMA,2,UP_DOWN,SMA,4,SMA,8,UP,SMA,16
+DEMA,2,UP,SMA,2,SMA,8,UP,TEMA,4
+TEMA,2,UP,SMA,2,TEMA,32,UP,SMA,16
